@@ -3,6 +3,8 @@ permalink: /whitepaper/
 title: "White paper"
 ---
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/easypaysy_white_paper.png)
+
 The white paper describes in detail all the features of easypaysy, at the moment it was published.
 
 For more information, please read the white paper in your language:
