@@ -5,4 +5,4 @@ title: "White paper"
 
 The white paper describes in detail all the features of easypaysy, at the moment it was published.
 
-You can read it by cliking on this link
+For more information, please [read the PDF.]({{ site.url }}/assets/easypaysy_white_paper.pdf)
