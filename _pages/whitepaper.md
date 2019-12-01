@@ -13,7 +13,7 @@ For more information, please read the white paper in your language:
 
 Other languages:
 
-Like in the project? Want to help?
+Like the project? Want to contribute?
 
 You can help by translating the white paper to your native language.
 
