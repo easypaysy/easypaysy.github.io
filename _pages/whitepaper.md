@@ -5,7 +5,7 @@ title: "White paper"
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/white_paper_screenshot.png)
 
-The white paper describes in detail all the features of easypaysy, at the moment it was published.
+The white paper describes in detail all the major features of easypaysy, at the moment it was published.
 
 For more information, please read the white paper in your language:
 
