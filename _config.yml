@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "easypaysy"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "The easy payment system for crypto."
+  avatar : "/assets/images/easypaysy_bio_photo.jpg"
+  bio    : "easypaysy is the new layer-two protocol that empowers users so that they can create accounts directly on the blockchain."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
