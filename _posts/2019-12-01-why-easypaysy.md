@@ -41,4 +41,4 @@ For a protocol to be useful, it needs to find a wide adoption.
 
 So, please, have a deep look at it and help whatever way you can.
 
-Let's start the Bitcoin 2.0 revolution!
+Let's join the Bitcoin 2.0 revolution!
