@@ -9,7 +9,7 @@ The white paper describes in detail all the features of easypaysy, at the moment
 
 For more information, please read the white paper in your language:
 
-[English white paper]({{ site.url }}/assets/easypaysy_white_paper.pdf)
+- [English]({{ site.url }}/assets/easypaysy_white_paper.pdf)
 
 Other languages:
 
