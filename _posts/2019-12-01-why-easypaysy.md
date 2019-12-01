@@ -31,7 +31,7 @@ However, there isn't yet a widely used standard to hide the addresses from the u
 
 Bitcoin addresses are really not meant for humans. Nobody should be forced to make or receive payments to a crypto-address, much as nobody expect you to navigate the world wide web just by using IP addresses.
 
-Yet we all are!
+Yet, here we are, a decade after Bitcoin was born, still sending and receiving money using Bitcoin addresses.
 
 Easypaysy comes to offer a way out of this terrible UX, that scares so many potential users away, forcing them to keep their fund at a exchange, for (logical) fear of mismanaging and losing them.
 
