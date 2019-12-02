@@ -33,7 +33,7 @@ Bitcoin addresses are really not meant for humans. Nobody should be forced to ma
 
 Yet, here we are, a decade after Bitcoin was born, still sending and receiving money using Bitcoin addresses.
 
-Easypaysy comes to offer a way out of this terrible UX, that scares so many potential users away, forcing them to keep their fund at a exchange, for (logical) fear of mismanaging and losing them.
+Easypaysy comes to offer a way out of this terrible UX, that scares so many potential users away, forcing them to keep their funds at a exchange, for (logical) fear of mismanaging and losing them.
 
 This is still the beginning of the journey. 
 
