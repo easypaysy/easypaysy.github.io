@@ -6,7 +6,7 @@ categories:
 tags:
   - protocol
 ---
-
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/post-001-red-flag-act.jpg){: .full}
 Today is the day easypaysy gets public.
 
 Many of use believe that Bitcoin is being dragged by a terrible UX (User Experience).
