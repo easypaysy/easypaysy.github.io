@@ -17,7 +17,7 @@ That isn't unique of Bitcoin.
 
 Most technologies have a similar beginning.
 
-The internet didn't really explode until the invention of the world wide web, almost 30 years after its creation.
+The Internet didn't really explode until the invention of the world wide web, almost 30 years after its creation.
 
 Ditto for the car, phone, and so many other technologies.
 
