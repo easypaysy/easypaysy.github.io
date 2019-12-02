@@ -6,9 +6,6 @@ categories:
 tags:
   - protocol
 ---
-# <img src="{{ site.url }}{{ site.baseurl }}/assets/images/post-001-red-flag-act.jpg" alt="Red Flag Act">
-
-
 
 <figure>
   <img src="{{site.url}}/assets/images/post-001-red-flag-act.jpg" alt="Red Flag Act in UK required a person waving a red flag in front of automobiles"/>
