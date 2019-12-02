@@ -12,7 +12,7 @@ tags:
   <figcaption>Red flag laws were laws in the United Kingdom and the United States enacted in the late 19th century, requiring drivers of early automobiles to take certain safety precautions, including waving a red flag in front of the vehicle as a warning</figcaption>
 </figure>
 
-Today is the day easypaysy gets public.
+Today (December, 1s, 2019) is the day easypaysy gets public.
 
 Many of use believe that Bitcoin is being dragged by a terrible UX (User Experience).
 
