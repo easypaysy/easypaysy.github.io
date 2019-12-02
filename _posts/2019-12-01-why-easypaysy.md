@@ -11,7 +11,7 @@ tags:
 
 
 <figure>
-  <img src="{{site.url}}/assets/post-001-red-flag-act.jpg" alt="my alt text"/>
+  <img src="{{site.url}}/assets/images/post-001-red-flag-act.jpg" alt="Red Flag Act in UK required a person waving a red flag in front of automobiles"/>
   <figcaption>Red flag laws were laws in the United Kingdom and the United States enacted in the late 19th century, requiring drivers of early automobiles to take certain safety precautions, including waving a red flag in front of the vehicle as a warning</figcaption>
 </figure>
 
