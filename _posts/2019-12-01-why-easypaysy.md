@@ -14,7 +14,7 @@ tags:
 
 Today (December, 1st, 2019) is the day easypaysy gets public.
 
-Many of use believe that Bitcoin is being dragged by a terrible UX (User Experience).
+Many of us believe that Bitcoin is being dragged by a terrible UX (User Experience).
 
 That isn't unique of Bitcoin. 
 
