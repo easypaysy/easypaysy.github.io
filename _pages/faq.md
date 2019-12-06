@@ -63,21 +63,21 @@ You shouldn’t. If you are fully satisfied with the way you are conducting cryp
 # Ok, but really, why should I bother, what are the key benefits of easypaysy accounts?
 Since you insist, these are some of the key benefits:
 
-- (1) Account ids are short and easy to remember and communicate, like:
+1. Account ids are short and easy to remember and communicate, like:
 	btc@883624.1549/347
   btc@curious-insect.script/fine
   
-- (2) Account ids are permanent, you get one and don’t ever need another
+2. Account ids are permanent, you get one and don’t ever need another
 
-- (3) By paying to an account id, you can be reasonably sure of whom you are paying to.
+3. By paying to an account id, you can be reasonably sure of whom you are paying to.
 
-- If the need arises, the payer can legally prove he made the payment to the proper destination.
+4. If the need arises, the payer can legally prove he made the payment to the proper destination.
 
-- Because of (1) account ids can be typed easily, thus avoiding COPY and PASTE attacks
+5. Because of (1) account ids can be typed easily, thus avoiding COPY and PASTE attacks
 
-- Small mistakes are very easy to spot. 
+6. Small mistakes are very easy to spot. 
 
-- Since you have to spend some time and money to open an easypaysy account, it is wholly impractical for an attacker to open fake accounts in order to have one ID that’s similar to yours. Also, because the checksum is unpredictable since it depends on data outside of the account itself (namely the block hash and the merke root), account ids are extremely secure.
+7. Since you have to spend some time and money to open an easypaysy account, it is wholly impractical for an attacker to open fake accounts in order to have one ID that’s similar to yours. Also, because the checksum is unpredictable since it depends on data outside of the account itself (namely the block hash and the merke root), account ids are extremely secure.
 
 # Who assigns the account id?
 Nobody really, they are assigned quasy randomly. You can only control the block number, which constitutes the first part of the account id. The rest depends on the positioning of your account within the block and that is a random even by all purposes, unless you are the miner yourself. However, the checksum part, which is also an integral part of the account id, depends also on the Merkle Root and the Hash of the block, so even the miners have very little control over the naming of your account.
