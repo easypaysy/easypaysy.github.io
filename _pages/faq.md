@@ -64,8 +64,9 @@ You shouldn’t. If you are fully satisfied with the way you are conducting cryp
 Since you insist, these are some of the key benefits:
 
 1. Account ids are short and easy to remember and communicate, like:
+	
 	btc@883624.1549/347
-  btc@curious-insect.script/fine
+  	btc@curious-insect.script/fine
   
 2. Account ids are permanent, you get one and don’t ever need another
 
