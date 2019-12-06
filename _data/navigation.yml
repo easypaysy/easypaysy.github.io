@@ -8,5 +8,7 @@ main:
     url: /whitepaper/
   - title: "Posts"
     url: /posts/
+  - title: "Faq"
+    url: /faq/
   - title: "About"
     url: /about/
