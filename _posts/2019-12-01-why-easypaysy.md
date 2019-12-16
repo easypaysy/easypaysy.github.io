@@ -28,11 +28,11 @@ Many in the industry have recognized this problem, and believe that Bitcoin need
 
 Not to say that there haven't been improvements:
 
-HD wallets, and the BIP39 seed format are a great improvement over the early wallet software, where many lost their funds for not properly backing up the data.
+HD wallets, and the BIP39 seed format are a great improvement over the early wallet software, where many lost their funds for not properly backing up their data.
 
-Also, the UI (user interface) of most modern wallet apps, are way more user friendly than they used to be.
+Also, the UI (user interface) of most modern wallet apps, is way more user friendly than it used to be.
 
-However, there isn't yet a widely used standard to hide the addresses from the user experience.
+However, there isn't yet a widely used standard to hide addresses from the user experience.
 
 Bitcoin addresses are really not meant for humans. Nobody should be forced to make or receive payments to a crypto-address, much as nobody expect you to navigate the world wide web just by using IP addresses.
 
