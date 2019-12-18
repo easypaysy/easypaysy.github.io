@@ -13,7 +13,7 @@ It is possible that some of the features (like the Ubercompressed format) never 
 
 | ID    | Feature           | Notes                            | version 1 | version 2 | version 3 | version 4 |
 |-------|-------------------|----------------------------------|-----------|-----------|-----------|-----------|
-| epf001|Type_0 payments    | Handle with care, fixed address  | :heavy_check_mark:    |	         |           |           |
+| epf001|Type_0 payments    | Handle with care, fixed address  | :check_mark:          |	         |           |           |
 | epf002| Type_1 payments   | Interactive                      |           |	         |     x     |           |
 | epf003| Type_2 payments   | SPV payments                     |     x     |	         |           |           |
 | epf004| Type_3 payments   | Full node payments               |           |	   x     |           |           |
