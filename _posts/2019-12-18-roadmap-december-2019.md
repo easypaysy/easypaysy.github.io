@@ -19,3 +19,4 @@ It is possible that some of the features (like the Ubercompressed format) never 
 | epf004| Type_3 payments   | Full node payments               | | :heavy_check_mark: | | |
 | epf005| Uber compression  | OP_RETURN pubkey torma           | | :heavy_check_mark: | | |
 | epf005| Master accounts   | Increase scalability lowers cost | | | | :heavy_check_mark: |
+| epf006| User data         | User data encoded within OP_RETURN   | | :heavy_check_mark: | | |
