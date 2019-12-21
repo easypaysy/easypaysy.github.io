@@ -9,6 +9,12 @@ tags:
   - easypaysy
 ---
 You must be proud of yourself.
+
+<figure>
+  <img src="{{site.url}}/assets/images/post-003-the-bitcoin-curse-takiyasha_the_titch_and_the_skeleton_spectre.jpg" alt="The Bitcoin curse - Illustration from wikimedia commons"/>
+  <figcaption>The three tiles in Takiyasha the Witch and the Skeleton Spectre. Source: Wikimedia commons</figcaption>
+</figure>
+
 For the past few months, maybe years, you have been learning all that you could about Bitcoin.
 Finally, you know a lot. I mean, *a LOT* about Bitcoin.
 
