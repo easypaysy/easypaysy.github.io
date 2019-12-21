@@ -59,9 +59,9 @@ What is the absolute minimum somebody needs to know about Bitcoin to be able to 
 
 I am gonna argue that you only need to know this three things:
 
-a) How to buy and configure a secure hardware wallet, preferably one with integrated WIFI.
-b) You need to be able to write down and store securely the 12 BIP39 words of your wallet.
-c) You need to be able to write down and share your easypaysy ID that your hardware wallet will show every time you turn it on. Such as btc@alpha-rally.box/lion
+1. How to buy and configure a secure hardware wallet, preferably one with integrated WIFI.
+2. You need to be able to write down and store securely the 12 BIP39 words of your wallet.
+3. You need to be able to write down and share your easypaysy ID that your hardware wallet will show every time you turn it on. Such as btc@alpha-rally.box/lion
 
 That is all you need to tell your friends. Bitcoin is a Swiss bank in your pocket. (I know it is much more, but let's just start with that, ok?)
 
