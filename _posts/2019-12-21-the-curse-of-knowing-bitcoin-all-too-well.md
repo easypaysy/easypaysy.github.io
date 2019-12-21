@@ -1,6 +1,7 @@
 ---
 title: "The Bitcoin curse"
 date: 2019-12-21
+published: True
 categories:
   - blog
 tags:
