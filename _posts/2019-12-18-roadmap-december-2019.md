@@ -1,5 +1,5 @@
 ---
-title: "Post: Easypaysy roadmap - December 2019"
+title: "Easypaysy roadmap - December 2019"
 categories:
   - Blog
 tags:
