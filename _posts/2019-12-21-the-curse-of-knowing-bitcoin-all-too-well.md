@@ -57,11 +57,11 @@ Bip58 addresses, bech32 addresses, QR codes,... all of that must go for Bitcoin 
 
 What is the absolute minimum somebody needs to know about Bitcoin to be able to use it securely:
 
-I am gonna argue that you only need to know this three things:
+I am gonna argue that, in order to use Bitcoin safely, in the *near* future you'll only need this three things:
 
-1. How to buy and configure a secure hardware wallet, preferably one with integrated WIFI.
-2. You need to be able to write down and store securely the 12 BIP39 words of your wallet.
-3. You need to be able to write down and share your easypaysy ID that your hardware wallet will show every time you turn it on. Such as btc@alpha-rally.box/lion
+1. Buy and configure a secure hardware wallet, preferably one with integrated WIFI and a nice screen.
+2. Write down and store securely the 12 BIP39 words of your wallet.
+3. Write down and share your easypaysy ID that your hardware wallet will show every time you turn it on. Such as btc@alpha-rally.box/lion
 
 That is all you need to tell your friends. Bitcoin is a Swiss bank in your pocket. (I know it is much more, but let's just start with that, ok?)
 
