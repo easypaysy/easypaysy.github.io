@@ -1,5 +1,5 @@
 ---
-title: "Post: Why easypaysy"
+title: "Why easypaysy"
 last_modified_at: 2019-12-01T19:35:00-05:00
 categories:
   - Blog
