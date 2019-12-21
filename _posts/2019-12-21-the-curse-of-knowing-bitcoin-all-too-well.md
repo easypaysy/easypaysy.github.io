@@ -19,7 +19,6 @@ For the past few months, maybe years, you have been learning all that you could 
 Finally, you know a lot. I mean, *a LOT* about Bitcoin.
 
 - You can tell your hashes from your Merkle roots; a private key from a public key.
-
 - You could talk for hours about the advantages of proof of work and the perils of proof of stake.
 - You finally understand what the heck an elliptic curve is, and why Diffie-Hellman should be in the pantheon of earthly gods.
 - You know why reusing addresses is worse than killing puppies and also that the Man In The Middle is not somebody that will ruin your relationship, but someone that will steal your bitcoins.
@@ -32,7 +31,9 @@ So know you think you can finally convince anyone why Bitcoin is the best invent
 
 Sadly, you have become an expert. You have crossed the Rubicon, so now there is no turning back.
 You have learned so much about so many arcane concepts, that you are irremediable separated from a common human being.
-You have fallen under the curse of the expert (wikipedia).
+
+You have fallen under [the curse of expertise](https://en.wikipedia.org/wiki/The_curse_of_expertise).
+
 You are part of a select group of individuals that have invested so much time and effort getting to know this wonderfull technology that you are incapable of communicating with regular people.
 It is even possible that you feel disdain for those individuals that aren't willing to make the same level of effort to learn about Bitcoin as you did.
 
@@ -40,16 +41,17 @@ It is even possible that you feel disdain for those individuals that aren't will
 
 Bitcoin is not meant only for those of us that enjoy math puzzles and rise to every intelectual challenge.
 
-The first users of radio were electronic enthusiasts that assembled their own radios, could distinguish a Yaggi antena from a two pole and enjoyed the technology for the sake of itself.
+The first users of radio were electronic enthusiasts that assembled their own devices, could distinguish a Yaggi antena from a dipole and enjoyed the technology for the sake of itself.
 
 They were a necessary first step. But they didn't make radio the mass phenomenon it would become years laters.
 Regular people did. People that didn't know more about the internals of their radio devices than you do about the internals of your car's carburetor.
 
 The success of radio, tv, dvd, ... was built on ignorance, not expertise.
 
-It isn't until a technology, any technology is easy enough for regular, even somewhat dumb people to use it, when it becomes a real success.
+It isn't until a technology -any technology- is easy enough for regular people to use it, that it becomes a widespread success.
 
-Getting more people aboard the Bitcoin train is not about teaching them all that you know. It is about making sure that they don't need to learn that much to use it productively.
+Getting more people aboard the Bitcoin train is not about teaching them **everything** that you know. 
+It is about making sure that they don't need to learn that much to use it productively.
 
 That is where easypaysy fits in. 
 
